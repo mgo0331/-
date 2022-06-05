@@ -88,7 +88,7 @@
 |Stopped(SIGTSTP)|SLGTSTP이 작업을 일시 중단|
 |Stopped(SIGTSOP)|SLGTSOP이 작업을 일시 중단|
 |Stopped(SIGTTIN)|SLGTTIN이 작업을 일시 중단|
-|Stopped(SIGTTOU)|SLGTTON이 작업을 일시 중단|
+|Stopped(SIGTTOU)|SLGTTON이 작업을 일시 중단| 
 
 |옵션|설명|
 |:---:|:---:|
