@@ -24,7 +24,7 @@
  
  ->k : kill. k 입력 후 PID 번호 작성. signal은 9
  
- ->f : sort field 선택 화면 -> q 누르면 RES순으로 정렬
+ ->f : sort field 선택 화면 -> q 누르면 RES순으로 정렬 
  
  ->a : 메모리 사용량에 따라 정렬
  
